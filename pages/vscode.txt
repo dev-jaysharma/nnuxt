@@ -1,0 +1,71 @@
+{
+  "workbench.colorTheme": "Bearded Theme Monokai Black",
+  "editor.fontFamily": "IBMplexmono ,operator mono lig ,Dank mono ,monolisa , caskaydiacove nerd font ,jetbrainsMono nerd font ,   FantasqueSansMono Nerd Font",
+  "files.autoSave": "afterDelay",
+  "editor.fontSize": 16,
+  "workbench.iconTheme": "eq-material-theme-icons-darker",
+  "workbench.colorCustomizations": {},
+  "terminal.integrated.gpuAcceleration": "auto",
+  "editor.minimap.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "git.openRepositoryInParentFolders": "never",
+  //make terminal font big and enable ligs in terminal and editor
+  "terminal.integrated.fontSize": 16,
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontLigatures": true,
+  "editor.fontWeight": "100",
+  "editor.fontWeightBold": "700",
+  "editor.letterSpacing": 0.3,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 1,
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.activityBar.location": "hidden",
+  "workbench.statusBar.visible": false,
+  "workbench.startupEditor": "none",
+  "workbench.tips.enabled": false,
+  "breadcrumbs.enabled": false,
+  "material-icon-theme.folders.theme": "specific",
+  "material-icon-theme.folders.color": "#D91656",
+  "workbench.tree.enableStickyScroll": false,
+  "editor.stickyScroll.enabled": false,
+  "explorer.compactFolders": false,
+  "custom-ui-style.font.sansSerif": "Dank Mono",
+  "editor.wordWrap": "on",
+  "material-icon-theme.hidesExplorerArrows": true,
+  "window.customTitleBarVisibility": "never",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.horizontalScrollbarSize": 1,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.verticalScrollbarSize": 1,
+  "git.decorations.enabled": false,
+  "workbench.sideBar.location": "right",
+  "explorer.confirmDelete": false,
+  "svelte.enable-ts-plugin": true,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "window.titleBarStyle": "custom",
+  // "tailwindCSS.includeLanguages": {
+  //   "vue": "html",
+  //   "vue-html": "html",
+  // },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
